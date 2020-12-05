@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Jacob Prince's homepage.
+Hi, I'm Jacob! I am a prospective graduate student in comuptational cognitive neuroscience, currently studying human and machine vision in TarrLab at Carnegie Mellon University.
