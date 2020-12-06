@@ -3,20 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
+  # - title: "Talks"
+  #   url: /talks/
+  #
+  - title: "Conference Presentations"
+    url: /presentations/
+    
+  # #
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
+  # - title: "Projects"
+  #   url: /portfolio/
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Prince_CV_Nov20.pdf
