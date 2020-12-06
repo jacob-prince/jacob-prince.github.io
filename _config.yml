@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob S Prince"
-  avatar           : "https://www.jacob-prince.github.io/images/headshot.JPG"
+  avatar           : "headshot.jpg"
   bio              : "Lab Manager @ CMU Dept. of Psychology"
   location         : "Pittsburgh, PA"
   employer         :
