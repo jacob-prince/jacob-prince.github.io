@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &jacob_s_prince
 facebook:
-  username               :
+  username               : &jacob.prince96
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -84,17 +84,17 @@ author:
   avatar           : "new_headshot.jfif"
   bio              : "Lab Manager @ CMU Dept. of Psychology"
   location         : "Pittsburgh, PA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Carnegie Mellon University"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pd6wUgIAAAAJ"
+  email            : "jacob.samuel.prince@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jacob.prince96/"
   foursquare       :
   github           : "jacob-prince"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jacobprince/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCVZ73d1b97D9OntKN1_JU9A"
   wikipedia        :
 
 
