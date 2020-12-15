@@ -6,12 +6,12 @@ main:
   # - title: "Talks"
   #   url: /talks/
   #
-  - title: "Conference Presentations"
-    url: /presentations/
+  #- title: "Conference Presentations"
+  #  url: /presentations/
 
   # #
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
   # - title: "Projects"
   #   url: /portfolio/
