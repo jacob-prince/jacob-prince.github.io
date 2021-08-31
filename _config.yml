@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob S Prince"
 title_separator          : "-"
 name                     : &name "Jacob S Prince"
-description              : &description "Lab manager @ CMU Psychology"
+description              : &description "PhD Student @ Harvard Psychology"
 url                      : https://jacob-prince.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jacob-prince/jacob-prince.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &jacob_s_prince
+  username               : &_jacobprince_
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jacob S Prince"
   avatar           : "headshot.jfif"
-  bio              : "Lab Manager @ CMU Dept. of Psychology"
-  location         : "Pittsburgh, PA"
-  employer         : "Carnegie Mellon University"
+  bio              : "PhD Student @ Harvard Psychology"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pd6wUgIAAAAJ"
   email            : "jacob.samuel.prince@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jacob_s_prince"
+  twitter          : "_jacobprince_"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
