@@ -18,7 +18,7 @@ My home is in the Vision Sciences Laboratory, led by Drs. Talia Konkle and Georg
 
 ### My talk from the Conference on Cognitive Computational Neuroscience, Oxford, August 2023 (begins at 39:40):
 
-{% include youtubePlayer.html id="pwFh_b8hk-c?si=wch6lL_lEbxxP0xX&t=2423" %}
+{% include youtubePlayer.html id="pwFh_b8hk-c?si=wch6lL_lEbxxP0xX&t=2443" %}
 
 ### Check out my computational tutorial on GLMsingle delivered at MIT in April 2022:
 
