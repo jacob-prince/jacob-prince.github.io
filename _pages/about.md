@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Jacob! I'm a second-year Cognitive Neuroscience PhD student in the Department of Psychology at Harvard.
+Hi, I'm Jacob! I'm a third-year Cognitive Neuroscience PhD candidate in the Department of Psychology at Harvard.
 
 I work at the intersection of neuroscience and artificial intelligence, with a goal of understanding how the visual system transforms the rich sensory content of our world into the set of neural representations that support the array of visual behaviors we perform each day - from object and facial recognition, to spatial navigation, to reading and writing.
 
@@ -16,6 +16,9 @@ In pursuing these insights, I measure people's brains (using fMRI) and their beh
 
 My home is in the Vision Sciences Laboratory, led by Drs. Talia Konkle and George Alvarez. Previously I worked as a Lab Manager/RA at Carnegie Mellon with Dr. Michael Tarr, and I graduated from Yale with a degree in Cognitive Science in 2018.
 
+### My talk from the Conference on Cognitive Computational Neuroscience, Oxford, August 2023:
+
+{% include youtubePlayer.html id="pwFh_b8hk-c&t=2378s" %}
 
 ### Check out my computational tutorial on GLMsingle delivered at MIT in April 2022:
 
