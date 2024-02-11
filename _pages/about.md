@@ -20,7 +20,7 @@ My home is in the Vision Sciences Laboratory, led by Drs. Talia Konkle and Georg
 
 {% include youtubePlayer.html id="OvxOUn0-tn0" %}
 
-### My poster walkthrough from the Vision Sciences Society 2021 Conference:
+### Here's my poster walkthrough from the Vision Sciences Society 2021 Conference:
 
 {% include youtubePlayer.html id="yb3Nn7Han8o" %}
 
