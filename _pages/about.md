@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Jacob! I'm a third-year Cognitive Neuroscience PhD candidate in the Department of Psychology at Harvard.
+Hi, I'm Jacob! I'm a fourth-year Cognitive Neuroscience PhD candidate in the Department of Psychology at Harvard.
 
 I work at the intersection of neuroscience and artificial intelligence, with a goal of understanding how the visual system transforms the rich sensory content of our world into the set of neural representations that support the array of visual behaviors we perform each day - from object and facial recognition, to spatial navigation, to reading and writing.
 
